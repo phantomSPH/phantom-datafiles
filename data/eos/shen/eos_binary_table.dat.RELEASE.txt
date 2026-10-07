@@ -1,0 +1,3 @@
+# eos_binary_table.dat is larger than 100 MB and is stored as a GitHub Release asset
+# Download:
+#   https://github.com/phantomSPH/phantom-datafiles/releases/download/large-files/eos_binary_table.dat

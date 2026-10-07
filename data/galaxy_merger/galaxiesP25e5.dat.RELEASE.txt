@@ -1,0 +1,3 @@
+# galaxiesP25e5.dat is larger than 100 MB and is stored as a GitHub Release asset
+# Download:
+#   https://github.com/phantomSPH/phantom-datafiles/releases/download/large-files/galaxiesP25e5.dat
